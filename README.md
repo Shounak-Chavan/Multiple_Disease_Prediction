@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.10-blue?logo=python" />
+  <img src="https://img.shields.io/badge/Streamlit-App-red?logo=streamlit" />
+  <img src="https://img.shields.io/github/repo-size/Shounak-Chavan/Multiple_Disease_Prediction" />
+  <img src="https://img.shields.io/badge/License-MIT-green" />
+</p>
+
+
 # 🏥 AI-Powered Multiple Disease Prediction System
 ### *(Diabetes • Heart Disease • Parkinson’s)*
 
