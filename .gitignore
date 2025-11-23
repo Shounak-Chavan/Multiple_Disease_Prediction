@@ -205,3 +205,21 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# -------------------------
+# PROJECT SPECIFIC IGNORE
+# -------------------------
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore CatBoost auto-generated logs
+Diabetes/catboost_info/
+Heart/catboost_info/
+Parkinsons/catboost_info/
+
+# Ignore Jupyter notebook checkpoints explicitly
+.ipynb_checkpoints/
+
+# Ignore Python cache
+__pycache__/
