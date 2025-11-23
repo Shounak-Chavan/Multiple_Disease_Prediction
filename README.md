@@ -46,6 +46,7 @@ Multiple_Disease_Prediction/
 ├── app.py
 ├── requirements.txt
 ├── README.md
+├── LICENSE
 ├── .gitignore
 │
 ├── Diabetes/
@@ -66,7 +67,6 @@ Multiple_Disease_Prediction/
     ├── parkinsons.data
     └── ParkinsonsDetect.ipynb
 ```
-
 ---
 
 ## ▶️ How to Run Locally
