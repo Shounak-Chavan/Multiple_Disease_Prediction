@@ -6,7 +6,7 @@
 </p>
 
 
-# 🏥 AI-Powered Multiple Disease Prediction System
+# 🏥 MediPredict : AI-Powered Multiple Disease Prediction System
 ### *(Diabetes • Heart Disease • Parkinson’s)*
 
 This project is a **Machine Learning–based health prediction system** that predicts the risk of three major diseases — **Diabetes**, **Heart Disease**, and **Parkinson’s Disease** — using trained classification models and an interactive **Streamlit** web app.
